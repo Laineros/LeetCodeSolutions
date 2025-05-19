@@ -1,7 +1,6 @@
 package Medium;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class TopKFrequentElements {
     // 1st submit
@@ -25,6 +24,7 @@ public class TopKFrequentElements {
         }
         return result;
     }*/
+    // 2st submit
     public int[] topKFrequent(int[] nums, int k) {
         List<Integer>[] bucket = new List[nums.length + 1];
         Map<Integer, Integer> map = new HashMap<>();
