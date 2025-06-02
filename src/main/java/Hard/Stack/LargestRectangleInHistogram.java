@@ -1,4 +1,4 @@
-package Hard;
+package Hard.Stack;
 
 public class LargestRectangleInHistogram {
     public int largestRectangleArea(int[] heights) {

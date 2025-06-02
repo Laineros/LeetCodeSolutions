@@ -1,5 +1,6 @@
 package Hard;
 
+import Hard.Stack.LargestRectangleInHistogram;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

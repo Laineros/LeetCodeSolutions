@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Diff;
 
 public class NumberOfStepsToReduceANumberToZero {
     public static int numberOfSteps(int num) {
